@@ -1,0 +1,17 @@
+{
+  "pulled": "2026-10-03",
+  "files": {
+    "WPP2024_Demographic_Indicators_Medium.csv.gz": {
+      "url": "https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_Demographic_Indicators_Medium.csv.gz",
+      "bytes": 16557272,
+      "rows": 84360,
+      "sha256": "286ac36bb1415e2e1ade03acfef0a29f0e4c087e2f78e38c48f50c5df89082bc"
+    },
+    "WPP2024_TotalPopulationBySex.csv.gz": {
+      "url": "https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_TotalPopulationBySex.csv.gz",
+      "bytes": 16980593,
+      "rows": 720210,
+      "sha256": "66b84489fd7875b62de9b40d960b803b8c8439367c98deab89c2f770970925b9"
+    }
+  }
+}
