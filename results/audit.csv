@@ -1,0 +1,9 @@
+check,value
+countries or areas,237.0
+first year,1950.0
+last year,2100.0
+"world minus the sum of the countries, largest gap in any year (thousand people)",0.014000000432133675
+"world minus the sum of the six continents, largest gap in any year (thousand people)",0.0020000003278255463
+countries or areas with at least one million people in 2023,161.0
+"medium path, world, in the two files, largest gap 2024 to 2100 (thousand people)",0.0010000001639127731
+"growth rate against 100 x ln(population on 1 January next year / this year), largest gap (percentage points)",0.0004999989588925224
